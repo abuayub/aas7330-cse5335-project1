@@ -34,7 +34,7 @@ D3 understanding takes a little time. Credit to :ragingsquirrel3 at jsfiddle.net
 
 ## e). What components OTHER than your client and server framework did you install,if any, and if so, what is their purpose for your solution?
 - Google API for marking of locations on a sized maps.
-- d3js for the visualizing the data in pir chart.
+- d3js for the visualizing the data in pie chart.
 
 ## f). What Ubuntu commands are required to deploy and run your server?
 Prepare the app:
