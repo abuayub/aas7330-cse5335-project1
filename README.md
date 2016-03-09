@@ -28,9 +28,9 @@ Client framework chosen is JQuery because of the below points:
  Setting up of the Heroku server has been easy. The "Getting Started" tutorial was an easy way to setup the complete server.
 
 ## d). What aspect of the implementation did you find hard, if any, and why?
- To visualize in a better manner, CSS features needed more presicion.
+- To visualize in a better manner, CSS features needed more presicion.
 Credit to : @kseso at codepen.io. 
-D3 understanding takes a little time. Credit to :ragingsquirrel3 at jsfiddle.net
+- D3 understanding takes a little time. Credit to :ragingsquirrel3 at jsfiddle.net
 
 ## e). What components OTHER than your client and server framework did you install,if any, and if so, what is their purpose for your solution?
 - Google API for marking of locations on a sized maps.
